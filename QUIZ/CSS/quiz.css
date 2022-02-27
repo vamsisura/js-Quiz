@@ -1,0 +1,26 @@
+#container{
+    left: 0;
+    right: 0;
+    text-align: center;
+    line-height: 2.5rem;
+    font-size: 1.1rem;
+}
+#heading{
+    height: 10vh;
+    width: 100%;
+    background-color: grey;
+    padding-top: 0.2rem;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+    
+    
+
+#submit{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 2rem;
+}
